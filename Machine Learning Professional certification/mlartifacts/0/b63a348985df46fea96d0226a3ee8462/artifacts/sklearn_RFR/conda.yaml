@@ -1,0 +1,9 @@
+channels:
+- defaults
+dependencies:
+- python=3.10.13
+- pip
+- pip:
+  - mlflow
+  - scikit-learn==1.5.2
+name: sklearn_env

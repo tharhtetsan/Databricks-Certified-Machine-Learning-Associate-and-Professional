@@ -1,0 +1,9 @@
+channels:
+- defaults
+dependencies:
+- python=3.10.13
+- pip
+- pip:
+  - mlflow
+  - tensorflow==2.17.0
+name: tf_env

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1728978406070
+current_stage: None
+description: A new version of sns diamonds dataset linear regressions model
+last_updated_timestamp: 1728978406070
+name: sns_diamonds_create
+run_id: 6a6c166dae1e49ab8a9effca7caf6a60
+run_link: null
+source: file:///Users/tharhtet/Documents/github/DataBricks_Certification/Machine%20Learning%20Professional%20certification/S2_Model%20Lifecycle%20Management/mlruns/0/6a6c166dae1e49ab8a9effca7caf6a60/artifacts/sns_diamonds
+status: READY
+status_message: null
+storage_location: file:///Users/tharhtet/Documents/github/DataBricks_Certification/Machine%20Learning%20Professional%20certification/S2_Model%20Lifecycle%20Management/mlruns/0/6a6c166dae1e49ab8a9effca7caf6a60/artifacts/sns_diamonds
+user_id: null
+version: 1

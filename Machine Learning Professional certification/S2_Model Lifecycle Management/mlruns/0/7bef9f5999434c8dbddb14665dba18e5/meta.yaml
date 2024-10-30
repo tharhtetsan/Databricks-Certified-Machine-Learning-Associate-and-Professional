@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tharhtet/Documents/github/DataBricks_Certification/Machine%20Learning%20Professional%20certification/S2_Model%20Lifecycle%20Management/mlruns/0/7bef9f5999434c8dbddb14665dba18e5/artifacts
+end_time: 1728978698990
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7bef9f5999434c8dbddb14665dba18e5
+run_name: register_diamonds
+run_uuid: 7bef9f5999434c8dbddb14665dba18e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728978697777
+status: 3
+tags: []
+user_id: tharhtet

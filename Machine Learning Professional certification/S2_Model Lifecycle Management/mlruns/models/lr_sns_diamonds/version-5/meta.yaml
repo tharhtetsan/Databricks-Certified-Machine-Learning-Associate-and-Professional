@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1728978705992
+current_stage: None
+description: null
+last_updated_timestamp: 1728978705992
+name: lr_sns_diamonds
+run_id: 93f69e6cb3e042b5842bd94df579ec81
+run_link: null
+source: file:///Users/tharhtet/Documents/github/DataBricks_Certification/Machine%20Learning%20Professional%20certification/S2_Model%20Lifecycle%20Management/mlruns/0/93f69e6cb3e042b5842bd94df579ec81/artifacts/sns_diamonds
+status: READY
+status_message: null
+storage_location: file:///Users/tharhtet/Documents/github/DataBricks_Certification/Machine%20Learning%20Professional%20certification/S2_Model%20Lifecycle%20Management/mlruns/0/93f69e6cb3e042b5842bd94df579ec81/artifacts/sns_diamonds
+user_id: null
+version: 5

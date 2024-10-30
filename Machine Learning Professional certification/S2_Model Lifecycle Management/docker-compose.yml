@@ -1,0 +1,18 @@
+version: '3'
+
+services:
+  postgres:
+    image: postgres:14.0
+    restart: always
+    environment:
+        POSTGRES_PASSWORD: tharhtet
+        POSTGRES_DB: test_db
+
+    ports:
+      - "5432:5432"
+    networks:
+      - ths-deepfaro
+
+
+networks:
+  ths-deepfaro:

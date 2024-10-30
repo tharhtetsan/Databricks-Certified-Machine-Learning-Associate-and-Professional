@@ -1,0 +1,34 @@
+artifact_path: tf_regressor
+flavors:
+  python_function:
+    artifacts:
+      config_path:
+        path: artifacts/data_tf.json
+        uri: data_tf.json
+    cloudpickle_version: 3.0.0
+    code: null
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pyfunc.model
+    python_model: python_model.pkl
+    python_version: 3.10.13
+    streamable: false
+mlflow_version: 2.16.2
+model_size_bytes: 91118
+model_uuid: 2ed999198c7a49a395efdb93f60dbb65
+run_id: 1e3a4061f07d41359924dcfe1256eacd
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "carat", "required": true}, {"type": "double",
+    "name": "depth", "required": true}, {"type": "double", "name": "table", "required":
+    true}, {"type": "double", "name": "x", "required": true}, {"type": "double", "name":
+    "y", "required": true}, {"type": "double", "name": "z", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1,
+    1]}}]'
+  params: null
+utc_time_created: '2024-10-15 07:28:26.355726'

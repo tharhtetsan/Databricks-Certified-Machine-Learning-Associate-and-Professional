@@ -1,0 +1,33 @@
+artifact_path: sklearn_RFR
+flavors:
+  python_function:
+    artifacts:
+      config_path:
+        path: artifacts/data_sklearn.json
+        uri: data_sklearn.json
+    cloudpickle_version: 3.0.0
+    code: null
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pyfunc.model
+    python_model: python_model.pkl
+    python_version: 3.10.13
+    streamable: false
+mlflow_version: 2.16.2
+model_size_bytes: 82658
+model_uuid: dcf0a034fb2a4066bf22977fa9679f06
+run_id: b63a348985df46fea96d0226a3ee8462
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "carat", "required": true}, {"type": "double",
+    "name": "depth", "required": true}, {"type": "double", "name": "table", "required":
+    true}, {"type": "double", "name": "x", "required": true}, {"type": "double", "name":
+    "y", "required": true}, {"type": "double", "name": "z", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2024-10-15 06:29:06.092321'
