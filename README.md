@@ -1,6 +1,11 @@
 # Databricks-Certified-Machine-Learning-Associate-and-Professional
 
-[<img src="./images/associate.png" alt="associate logo" width="150" height="200" />](https://www.databricks.com/learn/certification/machine-learning-associate) [<img src="./images/professional.png" alt="professional" width="200" height="250" />](https://www.databricks.com/learn/certification/machine-learning-professional)
+This repository is a collection of learning materials I prepared for the Databricks ML Exam. While I can’t guarantee that everything here fully covers the exam, these resources were a great help in passing both exams within a month. If you spot any errors or feel a topic is missing, please let me know. Good luck with your exam!  
+
+
+
+
+[<img src="./images/associate.png" alt="associate logo" width="150" height="200" />](https://credentials.databricks.com/d80d588c-301e-4100-8d45-3bd882634839) [<img src="./images/professional.png" alt="professional" width="200" height="250" />](https://credentials.databricks.com/829d7bd8-fadd-4feb-9ded-8dff678e3da1#acc.RinCMEIG)
 
 ### Associate Topics
 - Databricks Machine Learning – 29%
